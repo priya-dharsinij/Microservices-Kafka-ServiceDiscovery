@@ -33,9 +33,7 @@ public class EmployeeServiceImpl implements EmployeeService{
 			}).orElseThrow(() -> new ResourceNotFoundException("Employee not found with Id " + employee.getId()));
 		}
 		
-		Employee newEmployee = repository.save(employee);
-		return newEmployee;
-		
+		return repository.save(employee);
 		}
 	
 }
