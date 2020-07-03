@@ -29,6 +29,49 @@ The app defines following end-points.
 
 Test them using postman or any other rest client.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sample Valid JSON Request Body
 
 
